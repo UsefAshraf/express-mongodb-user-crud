@@ -55,8 +55,6 @@ Server running on port 3000
 🔗 API Endpoints
 Method	Endpoint	Description	Body (JSON)
 POST	/users	Add a new user	{ "name": "John", "email": "john@example.com", "password": "1234" }
-<img width="1752" height="631" alt="Screenshot 2025-11-13 211053" src="https://github.com/user-attachments/assets/23ff4b53-a9a7-4536-afd0-5ee6bf0f939c" />
 GET	/users	Get all users
-<img width="1712" height="818" alt="Screenshot 2025-11-13 211131" src="https://github.com/user-attachments/assets/fa0e7ec0-19bd-43d8-9c0d-7340b2d8c9db" />
 PUT	/users	Update user
 DELETE	/users	Delete user
